@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "https://www.jkartea.ga/"
+title                    : "JK Arteaga"
 title_separator          : "-"
 name                     : "Jon Koldo Arteaga"
 description              : "basatia izateko jaioa."
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Jon Koldo Arteaga"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jkarteaga.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "1977"
   location         : "Bilbao (Basque Country)"
   email            : "jkarteaga@gmail.com"
@@ -91,7 +91,7 @@ author:
   foursquare       :
   github           :
   gitlab           :
-  google_plus      : "jkarteaga"
+  google_plus      : 
   keybase          :
   instagram        : "jkarteaga"
   lastfm           :
