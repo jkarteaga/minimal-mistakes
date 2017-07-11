@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "eu"
 title                    : "jkarteaga"
 title_separator          : "-"
 name                     : "Jon Koldo Arteaga"
@@ -87,21 +87,21 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/jkarteaga"
+  facebook         : "jkarteaga"
   foursquare       :
   github           :
   gitlab           :
-  google_plus      :
+  google_plus      : "jkarteaga"
   keybase          :
   instagram        : "jkarteaga"
   lastfm           :
-  linkedin         :
+  linkedin         : "jkarteaga"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/jkarteaga"
+  twitter          : "jkarteaga"
   vine             :
   weibo            :
   xing             :
