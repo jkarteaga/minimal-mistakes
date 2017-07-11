@@ -9,18 +9,18 @@
 locale                   : "en"
 title                    : "jkarteaga"
 title_separator          : "-"
-name                     : Jon Koldo Arteaga
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Jon Koldo Arteaga"
+description              : "basatia izateko jaioa."
+url                      : "https://www.jkartea.ga/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jkarteaga/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # true (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : jkarteaga-1# https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jkarteaga
 facebook:
-  username               :
+  username               :jkarteaga
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -77,23 +77,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jon Koldo Arteaga"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "1977"
+  location         : "Bilbao (Basque Country)"
+  email            : "jkarteaga@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"https://www.facebook.com/jkarteaga"
   foursquare       :
   github           :
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jkarteaga"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/jkarteaga"
   vine             :
   weibo            :
   xing             :
