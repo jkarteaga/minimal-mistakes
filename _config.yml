@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "ES"
+locale                   : "es-ES"
 title                    : "https://www.jkartea.ga/"
 title_separator          : "-"
 name                     : "Jon Koldo Arteaga"
